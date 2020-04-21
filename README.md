@@ -57,6 +57,9 @@ function tree(t){
 
 ### 5. Height of a BST  
 
+  > `./drills/height-of-bst.js`  
+  > `O(n)`
+
 Write an algorithm to find the height of a binary search tree. What is the time complexity of your algorithm?
 
 ### 6. Is it a BST?  
