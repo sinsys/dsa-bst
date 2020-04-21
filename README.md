@@ -16,6 +16,10 @@ Draw the BST with the keys - E A S Y Q U E S T I O N
 
 Show how the above trees would look like if you deleted the root of each tree. (Draw the trees, no coding needed here.)
 
+  > ![Binary-Search-Tree-1-root-removed](https://raw.githubusercontent.com/sinsys/dsa-bst/master/img/binary_tree_1_root_removed.png)  
+
+  > ![Binary-Search-Tree-3-root-removed](https://raw.githubusercontent.com/sinsys/dsa-bst/master/img/binary_tree_3_root_removed.png)  
+  
 ### 3. Create a BST class  
 
 Walk through the binary search tree code in the curriculum and understand it well. Then write a BinarySearchTree class with its core functions (`insert()`, `remove()`, `find()`) from scratch.
