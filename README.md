@@ -41,10 +41,10 @@ Without running this code in your code editor, explain what the following progra
     /  \
   10    30
        /  \
-      5    40
+     25    40
 ```  
 
-  > This function with this tree as an argument would return 105.
+  > This function with this tree as an argument would return 125.
 
 ```javascript
 function tree(t){
