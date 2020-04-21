@@ -34,6 +34,18 @@ Walk through the binary search tree code in the curriculum and understand it wel
 
 Without running this code in your code editor, explain what the following program does. Show with an example the result of executing this program. What is the runtime of this algorithm?
 
+  > This function will sum all of the values in the tree  
+
+```javascript
+     20
+    /  \
+  10    30
+       /  \
+      5    40
+```  
+
+  > This function with this tree as an argument would return 105.
+
 ```javascript
 function tree(t){
     if(!t){
