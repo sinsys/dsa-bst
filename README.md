@@ -19,14 +19,17 @@ Show how the above trees would look like if you deleted the root of each tree. (
   > ![Binary-Search-Tree-1-root-removed](https://raw.githubusercontent.com/sinsys/dsa-bst/master/img/binary_tree_1_root_removed.png)  
 
   > ![Binary-Search-Tree-3-root-removed](https://raw.githubusercontent.com/sinsys/dsa-bst/master/img/binary_tree_3_root_removed.png)  
-  
+
 ### 3. Create a BST class  
 
-Walk through the binary search tree code in the curriculum and understand it well. Then write a BinarySearchTree class with its core functions (`insert()`, `remove()`, `find()`) from scratch.
+  > `./drills/BinarySearchTree.js`  
+  > `./drills/create-bst-class.js`  
+
+Walk through the binary search tree code in the curriculum and understand it well. Then write a BinarySearchTree class with its core functions (`insert()`, `remove()`, `find()`) from scratch. (ended up using add() instead of insert())
 
  - Create a binary search tree called BST and insert `3,1,4,6,9,2,5,7` into your tree. Compare your result with the result from the 1st exercise.
  - Create a binary search tree called BST and insert E A S Y Q U E S T I O N into your tree. Compare your result with the result from the 1st exercise.  
- - 
+
 ### 4. What does this program do?  
 
 Without running this code in your code editor, explain what the following program does. Show with an example the result of executing this program. What is the runtime of this algorithm?
