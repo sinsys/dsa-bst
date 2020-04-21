@@ -64,6 +64,8 @@ Write an algorithm to find the height of a binary search tree. What is the time 
 
 ### 6. Is it a BST?  
 
+  > `./drills/is-it-bst.js`  
+  
 Write an algorithm to check whether an arbitrary binary tree is a binary search tree, assuming the tree does not contain duplicates.
 
 ### 7. 3rd largest node  

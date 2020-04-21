@@ -19,8 +19,8 @@ const findHeight = (bst, height = 0) => {
   else {
 
     // Find left and right depths
-    leftDepth = findHeight(bst.left);
-    rightDepth = findHeight(bst.right);
+    let leftDepth = findHeight(bst.left);
+    let rightDepth = findHeight(bst.right);
     
     // Return the greater depth + 1 for the root node
     return leftDepth > rightDepth
