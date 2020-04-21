@@ -10,7 +10,7 @@ Given the data `3,1,4,6,9,2,5,7` if you were to insert this into an empty binary
 
 Draw the BST with the keys - E A S Y Q U E S T I O N  
 
-  > ![Binary-Search-Tree-2](https://raw.githubusercontent.com/sinsys/dsa-bst/master/img/binary_tree_2.png)  
+  > ![Binary-Search-Tree-3](https://raw.githubusercontent.com/sinsys/dsa-bst/master/img/binary_tree_3.png)  
 
 ### 2. Remove the root  
 
