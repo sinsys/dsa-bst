@@ -22,8 +22,8 @@ Show how the above trees would look like if you deleted the root of each tree. (
 
 ### 3. Create a BST class  
 
-  > `./drills/BinarySearchTree.js`  
-  > `./drills/create-bst-class.js`  
+  > [BinarySearchTree](../blob/master/drills/BinarySearchTree.js) 
+  > [BinarySearchTree](../blob/master/drills/create-bst-class.js)
 
 Walk through the binary search tree code in the curriculum and understand it well. Then write a BinarySearchTree class with its core functions (`add()`, `remove()`, `find()`) from scratch.
 
