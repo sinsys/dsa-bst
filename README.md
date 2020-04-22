@@ -70,6 +70,8 @@ Write an algorithm to check whether an arbitrary binary tree is a binary search 
 
 ### 7. 3rd largest node  
 
+  > `./drills/third-largest-node.js`  
+  
 Write an algorithm to find the 3rd largest node in a binary search tree.
 
 ### 8. Balanced BST  
