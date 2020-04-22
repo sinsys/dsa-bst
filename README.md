@@ -22,8 +22,8 @@ Show how the above trees would look like if you deleted the root of each tree. (
 
 ### 3. Create a BST class  
 
-  > [BinarySearchTree](../blob/master/drills/BinarySearchTree.js) 
-  > [BinarySearchTree](../blob/master/drills/create-bst-class.js)
+  > [BinarySearchTree.js](../master/drills/BinarySearchTree.js)  
+  > [create-bst-class.js](../master/drills/create-bst-class.js)  
 
 Walk through the binary search tree code in the curriculum and understand it well. Then write a BinarySearchTree class with its core functions (`add()`, `remove()`, `find()`) from scratch.
 
@@ -57,26 +57,26 @@ function tree(t){
 
 ### 5. Height of a BST  
 
-  > `./drills/height-of-bst.js`  
-  > `O(n)`
+  > [height-of-bst.js](../master/drills/height-of-bst.js)  
+  > `O(n)`  
 
 Write an algorithm to find the height of a binary search tree. What is the time complexity of your algorithm?
 
 ### 6. Is it a BST?  
 
-  > `./drills/is-it-bst.js`  
+  > [is-it-bst.js](../master/drills/is-it-bst.js)  
   
 Write an algorithm to check whether an arbitrary binary tree is a binary search tree, assuming the tree does not contain duplicates.
 
 ### 7. 3rd largest node  
 
-  > `./drills/third-largest-node.js`  
+  > [third-largest-node.js](../master/drills/third-largest-node.js)  
   
 Write an algorithm to find the 3rd largest node in a binary search tree.
 
 ### 8. Balanced BST  
 
-  > `./drills/balanced-bst.js`  
+  > [balanced-bst.js](../master/drills/balanced-bst.js)  
   
 Write an algorithm that checks if a BST is balanced (i.e., a tree where no 2 leaves differ in distance from the root by more than 1).
 
