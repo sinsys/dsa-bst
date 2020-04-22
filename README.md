@@ -76,6 +76,8 @@ Write an algorithm to find the 3rd largest node in a binary search tree.
 
 ### 8. Balanced BST  
 
+  > `./drills/balanced-bst.js`  
+  
 Write an algorithm that checks if a BST is balanced (i.e., a tree where no 2 leaves differ in distance from the root by more than 1).
 
 ### 9. Are they the same BSTs?  
