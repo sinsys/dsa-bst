@@ -42,9 +42,9 @@ const isSameBst = (arrA, arrB) => {
 let arr1 = [3,5,4,6,1,0,2];
 let arr2 = [3,1,5,2,4,6,0];
 
-console.log(isSameBst(arr1, arr2));
+console.log(isSameBst(arr1, arr2)); // Expects true
 
 arr1 = [3,5,4,6,12,0,2];
 arr2 = [3,12,5,2,4,6,0];
 
-console.log(isSameBst(arr1, arr2));
+console.log(isSameBst(arr1, arr2)); // Expects false
